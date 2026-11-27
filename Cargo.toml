@@ -1,0 +1,11 @@
+[package]
+name = "custom_collider"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy =  "0.20.1"
+bevy_rapier3d = "0.37"
+parry3d = "0.31.1"
+either = "1.19"
+num = "0.4"
